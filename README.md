@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hussein Alshaeer
 - 👀 I’m interested in web designing and developing
-- 🌱 I’m currently learning CSS Responsive
+- 🌱 I’m currently learning CSS Responsive and JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
